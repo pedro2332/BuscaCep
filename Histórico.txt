@@ -1,0 +1,12 @@
+{
+  "cep": "38414-171",
+  "logradouro": "Rua João Batista Correia",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Jardim Patrícia",
+  "localidade": "Uberlândia",
+  "uf": "MG",
+  "ibge": "3170206",
+  "ddd": "34",
+  "siafi": "5403"
+}
